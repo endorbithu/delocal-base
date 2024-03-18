@@ -1,8 +1,6 @@
 # DelocalBase
 
-Alap keretrendszer projektekhez, +2 segéd package-et (simple-crud, datatable) tartalmaz
-még:
-Általános funkciók projektekhez,
+Module/Microservice hibrid keretrendszer + Admin felület simple-crud-dal és datatable-lel + általános funkciók weboldalakhoz.
 
 **Features (részletesen lentebb, vagy adott package readme-ben kifejtve):**
 
